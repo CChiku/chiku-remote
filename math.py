@@ -8,7 +8,10 @@ def devide(x,y):
 #substract implementation
 def substract(x,y):
 	return x-y
+#multiply implementation
 
 def multiply(x,y):
-	pass
+
+	return 
+	x*y
 
