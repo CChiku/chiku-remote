@@ -5,9 +5,9 @@ def add(x,y):
 
 def devide(x,y):
 	pass
-
+#substract implementation
 def substract(x,y):
-	pass
+	return x-y
 
 def multiply(x,y):
 	pass
