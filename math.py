@@ -1,5 +1,7 @@
+#add implementation
 def add(x,y):
-	pass
+	return 
+	x+y
 
 def devide(x,y):
 	pass
