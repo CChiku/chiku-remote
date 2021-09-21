@@ -4,7 +4,8 @@ def add(x,y):
 	x+y
 
 def devide(x,y):
-	pass
+	return 				#commit on remote main branch
+		x/y
 #substract implementation
 def substract(x,y):
 	return x-y
